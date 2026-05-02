@@ -1,6 +1,6 @@
 {
-    "code": 290426,
-    "version": "29.04",
+    "code": 260001,
+    "version": "26.0.1",
     "created_at": "2026-04-25T13:10:46Z",
     "default_cloud_drive": {
         "language": "zh",
@@ -8,39 +8,39 @@
     },
     "files": [
         {
-            "file_name": "ZalithOne-29.04-arm64-v8a.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-29.04-arm64-v8a.apk",
+            "file_name": "ZalithOne-26.0.1-arm64-v8a.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.1-arm64-v8a.apk",
             "arch": "arm64",
             "size": 186497973
         },
         {
-            "file_name": "ZalithOne-29.04-armeabi-v7a.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-29.04-armeabi-v7a.apk",
+            "file_name": "ZalithOne-26.0.1-armeabi-v7a.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.1-armeabi-v7a.apk",
             "arch": "arm",
             "size": 180154428
         },
         {
-            "file_name": "ZalithOne-29.04-x86.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-29.04-x86.apk",
+            "file_name": "ZalithOne-26.0.1-x86.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.1-x86.apk",
             "arch": "x86",
             "size": 171590029
         },
         {
-            "file_name": "ZalithOne-29.04-x86_64.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-29.04-x86_64.apk",
+            "file_name": "ZalithOne-26.0.1-x86_64.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.1-x86_64.apk",
             "arch": "x86_64",
             "size": 190636278
         },
         {
-            "file_name": "ZalithOne-29.04.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-29.04.apk",
+            "file_name": "ZalithOne-26.0.1.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.1.apk",
             "arch": "all",
             "size": 322838650
         }
     ],
     "default_body": {
         "language": "en",
-        "markdown": "## Notes:\n- Since version 26.2+, Mojang has introduced the Vulkan rendering engine. If your device does **not** support **Vulkan 1.2**, please do **not** use the **Vulkan backend** to launch the latest version of Minecraft.\n\n## Updates:\n- Fixed Touch"
+        "markdown": "## Notes:\n- Since version 26.2+, Mojang has introduced the Vulkan rendering engine. If your device does **not** support **Vulkan 1.2**, please do **not** use the **Vulkan backend** to launch the latest version of Minecraft.\n\n## Updates:\nhttps://github.com/hykyura/ZalithOne/releases/tag/26.0.1"
     },
     "bodies": [
         {
