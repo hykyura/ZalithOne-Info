@@ -9,31 +9,31 @@
     "files": [
         {
             "file_name": "ZalithOne-26.0.2-arm64-v8a.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.2-arm64-v8a.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.2/ZalithOne-26.0.2-arm64-v8a.apk",
             "arch": "arm64",
             "size": 186497973
         },
         {
             "file_name": "ZalithOne-26.0.2-armeabi-v7a.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.2-armeabi-v7a.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.2/ZalithOne-26.0.2-armeabi-v7a.apk",
             "arch": "arm",
             "size": 180154428
         },
         {
             "file_name": "ZalithOne-26.0.2-x86.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.2-x86.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.2/ZalithOne-26.0.2-x86.apk",
             "arch": "x86",
             "size": 171590029
         },
         {
             "file_name": "ZalithOne-26.0.2-x86_64.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.2-x86_64.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.2/ZalithOne-26.0.2-x86_64.apk",
             "arch": "x86_64",
             "size": 190636278
         },
         {
             "file_name": "ZalithOne-26.0.2.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/2.4.1/ZalithOne-26.0.2.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.2/ZalithOne-26.0.2.apk",
             "arch": "all",
             "size": 322838650
         }
