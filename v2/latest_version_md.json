@@ -1,6 +1,6 @@
 {
-    "code": 260005,
-    "version": "26.0.5",
+    "code": 260008,
+    "version": "26.0.8",
     "created_at": "2026-04-25T13:10:46Z",
     "default_cloud_drive": {
         "language": "zh",
@@ -8,39 +8,39 @@
     },
     "files": [
         {
-            "file_name": "ZalithOne-26.0.5-arm64-v8a.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.5-arm64-v8a.apk",
+            "file_name": "ZalithOne-26.0.8-arm64-v8a.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.8-arm64-v8a.apk",
             "arch": "arm64",
-            "size": 238037198
+            "size": 241934377
         },
         {
-            "file_name": "ZalithOne-26.0.5-armeabi-v7a.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.5-armeabi-v7a.apk",
+            "file_name": "ZalithOne-26.0.8-armeabi-v7a.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.8-armeabi-v7a.apk",
             "arch": "arm",
-            "size": 232882477
+            "size": 236614802
         },
         {
-            "file_name": "ZalithOne-26.0.5-x86.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.5-x86.apk",
+            "file_name": "ZalithOne-26.0.8-x86.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.8-x86.apk",
             "arch": "x86",
-            "size": 223196358
+            "size": 227269607
         },
         {
-            "file_name": "ZalithOne-26.0.5-x86_64.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.5-x86_64.apk",
+            "file_name": "ZalithOne-26.0.8-x86_64.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.8-x86_64.apk",
             "arch": "x86_64",
-            "size": 237891753
+            "size": 242019173
         },
         {
-            "file_name": "ZalithOne-26.0.5.apk",
-            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.5.apk",
+            "file_name": "ZalithOne-26.0.8.apk",
+            "uri": "https://github.com/hykyura/ZalithOne/releases/download/26.0.5/ZalithOne-26.0.8.apk",
             "arch": "all",
-            "size": 323878289
+            "size": 339836461
         }
     ],
     "default_body": {
         "language": "en",
-        "markdown": "## Notes:\n- Since version 26.2+, Mojang has introduced the Vulkan rendering engine. If your device does **not** support **Vulkan 1.2**, please do **not** use the **Vulkan backend** to launch the latest version of Minecraft.\n\n## Updates:\nhttps://github.com/hykyura/ZalithOne/releases/tag/26.0.5"
+        "markdown": "# CAUTION!\nThis Launcher is not Official! This was forked from [ZalithLauncher2](https://github.com/ZalithLauncher/ZalithLauncher2).\nI am just adding some things that might useful for everyone.\n\nThis update is based on [v2.4.8](https://github.com/ZalithLauncher/ZalithLauncher2/releases/tag/2.4.8)\n\n## Added:\n- Kopper Zink Renderer"
     },
     "bodies": [
         {
